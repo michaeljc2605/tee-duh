@@ -2,8 +2,8 @@
 
 An individual portfolio case study of the CS2024 team project by Michael Joseph Candra, Aisha Tasya Aulia, Celine Emily Wijaya and Muhammad Rizki.
 
-- Intended case-study repository: `michaeljc2605/tee-duh`
-- Intended case-study URL: `https://michaeljc2605.github.io/tee-duh/`
+- Case-study repository: https://github.com/michaeljc2605/tee-duh
+- Live case study: https://michaeljc2605.github.io/tee-duh/
 - Existing live website demo: https://michaeljc2605.github.io/teduh-site/
 
 The case study is separate from the existing demo; the demo repository is not modified.
@@ -41,4 +41,6 @@ The build copies the complete static site to `dist/`. All local URLs are relativ
 
 ## Publication status
 
-Prepared locally. A public GitHub repository and deployment must be confirmed separately; this README is not evidence that publication has succeeded. The original demo URL returned HTTP 200 during preparation. Marketplace transactions, sign-up fulfillment and sales tracking are not asserted to be operational from that availability check.
+Published and verified on **15 November 2026**. The public repository is live, and the GitHub Pages workflow completed successfully. The live case-study page, local assets and source PDF were checked; desktop and mobile layouts and case-study controls were verified in Chrome.
+
+The original demo remains at its separate URL. Marketplace transactions, sign-up fulfillment and sales tracking are not asserted to be operational from these checks.
