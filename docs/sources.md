@@ -15,7 +15,7 @@ Source: attached `TEEDUH -  PROJECT DECK.pdf`. It is one 1440 × 28,327-point pa
 
 The live-text research panel names four inputs: mapping the Singapore heat/air-conditioning context; reading Shopee/Lazada reviews of similar basics brands; benchmarking Hanzify Lite 001's fashion layouts; tutor feedback on the first sitemap.
 
-The deck does not provide interview participants, sample counts, a review corpus, raw data, usability-test results or observed conversion metrics. Present personas as **design personas**, informed by the stated research inputs. Do not call them interviewed users or claim they have been validated.
+The deck does not provide interview counts, a review corpus, raw data, usability-test results or observed conversion metrics. On 15 November 2026, the user confirmed that **Alégor, Diniyan and Andrew are actual people** and supplied their photographs in that order for the public persona introduction. The profiles are presented as **design personas based on real people**. This confirmation does not establish a particular interview method or customer-segment validation.
 
 The deck explicitly says persona income estimates are assumptions based on 2026 Singapore pay guides (Jobstreet, SkillUp) and student part-time rates. Omit salaries from public persona summaries; behaviour, constraints and decisions are stronger evidence than speculative income.
 
@@ -88,6 +88,17 @@ Catalogue hierarchy panel (`catalogue-hierarchy.webp`, y≈9954–10501):
 - Conversion/PDPA panel documents intended consent/privacy design. Describe visible design choices such as optional marketing consent and a nearby privacy notice; do not certify legal compliance, storage security or operational voucher fulfilment from a slide.
 
 ## Visual assets
+
+### User-supplied persona photographs
+
+On 15 November 2026, the user requested these photographs in the persona introduction and identified them in order:
+
+- `assets/people/alegor.png`: first attachment, 750 × 450; Alégor.
+- `assets/people/diniyan.png`: second attachment, 750 × 444; Diniyan.
+- `assets/people/andrew.png`: third attachment, 610 × 452; Andrew.
+
+The PNG files are copied unchanged. Responsive CSS frames each portrait without changing the original image files. The adjacent name labels identify the images, so thumbnail alternative text is empty to avoid repeating each tab’s accessible name.
+
 
 Use `assets/homepage.webp` as hero and portfolio cover. It shows three product models and the “Dressed for the heat” UI. These are product/model visuals, not photographs of the persona characters.
 

@@ -10,13 +10,13 @@ The case study is separate from the existing demo; the demo repository is not mo
 
 ## Experience
 
-Three selectable design personas show their situation, hesitation, specific design response and proposed shopping journey. Alégor prioritises discovery and fit confidence; Diniyan needs quality/value detail; Andrew values community and independent style. An original-screen gallery shows the homepage, catalogue and product page, while source panels explain the persona mapping and the 19-to-15-page sitemap decision.
+Three selectable portrait cards introduce Alégor, Diniyan and Andrew, confirmed by the user as real people. Their design personas show their situation, hesitation, specific design response and proposed shopping journey. Alégor prioritises discovery and fit confidence; Diniyan needs quality/value detail; Andrew values community and independent style. An original-screen gallery shows the homepage, catalogue and product page, while source panels explain the persona mapping and the 19-to-15-page sitemap decision.
 
 The background reuses the exact CSS layers and JavaScript renderer from the live personal portfolio, including its scroll-driven industrial-to-cosmic transitions, mobile particle count and reduced-motion behaviour. A canvas-unavailable fallback preserves CSS colour changes.
 
 ## Evidence
 
-The attached project deck is included unchanged in `docs/teeduh-project-deck.pdf`. It is a single, very tall PDF page. The personas are design archetypes; the deck does not establish interview counts or measured customer-segment validation. Salary assumptions are omitted. The 20% marketplace-sales figure is a marketing target, not an achieved result. Michael is listed as a team member; no unverified individual leadership or research ownership is claimed.
+The attached project deck is included unchanged in `docs/teeduh-project-deck.pdf`. It is a single, very tall PDF page. The user confirmed the personas are based on real people and supplied their photographs on 15 November 2026; the deck does not establish interview counts or measured customer-segment validation. Salary assumptions are omitted. The 20% marketplace-sales figure is a marketing target, not an achieved result. Michael is listed as a team member; no unverified individual leadership or research ownership is claimed.
 
 ## Run and build
 
@@ -35,7 +35,7 @@ The build copies the complete static site to `dist/`. All local URLs are relativ
 - `styles.css`: responsive page styling.
 - `app.js`: persona/gallery selection, image zoom and chapter progress.
 - `background.css`, `background.js`: the portfolio's actual animated scene.
-- `assets/`: original project visuals optimised as WebP.
+- `assets/`: original project visuals and user-supplied persona photographs.
 - `docs/`: original deck and source notes.
 - `scripts/`: dependency-free build and checks.
 
